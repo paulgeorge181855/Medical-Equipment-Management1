@@ -1,0 +1,11 @@
+Time,Equipment,Status
+8:00,ECG Monitor,NORMAL
+10:00,CT Scanner,ERROR
+11:00,Infusion Pump,NORMAL
+13:00,Ultrasound Machine,NORMAL
+15:00,MRI Scanner,ERROR
+16:00,Ventilator,NORMAL
+18:00,ECG Monitor,NORMAL
+19:00,Infusion Pump,ERROR
+20:00,CT Scanner,NOTMAL
+23:00,Ultrasound Machine,ERROR

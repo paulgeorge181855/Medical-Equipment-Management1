@@ -1,0 +1,6 @@
+no,Time,Equipment,Status
+1,"10:00£¬15:00","CT Scanner","ERROR"
+2,"19:00£¬20:00","Infusion Pump","ERROR"
+3,"10:00£¬15:00£¬16:00","MRI Scanner","ERROR"
+4,"23:00","Ultrasound Machine","ERROR"
+5,"18:00","Ventilator","ERROR"
